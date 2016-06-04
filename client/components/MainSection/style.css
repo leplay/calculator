@@ -1,0 +1,50 @@
+
+.normal {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.normal li {
+  position: relative;
+  font-size: 24px;
+  line-height: 60px;
+  border-bottom: 1px solid #ededed;
+}
+
+.normal .name {
+  width: 130px;
+  display: inline-block;
+  text-align: left;
+}
+
+.normal .value {
+  position: absolute;
+  right: 0;
+}
+
+.normal .select {
+  -webkit-appearance: none;
+  border: 1px solid #ccc;
+  width: 240px;
+  line-height: 32px;
+  font-size: 14px;
+  color: #666;
+  margin: 0 20px;
+  padding: 0 20px;
+}
+.normal .select:focus {
+  outline: none;
+}
+
+.currency {
+  font-size: 14px;
+  font-weight: 200;
+  margin-right: 12px;
+}
+
+.sum {
+  font-size: 60px;
+  text-align: right;
+  font-weight: 100;
+}
