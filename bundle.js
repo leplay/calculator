@@ -2,7 +2,7 @@ webpackJsonp([1],[
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
 
-	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/caculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
+	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/calculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
 
 	'use strict';
 
@@ -43,7 +43,7 @@ webpackJsonp([1],[
 	  )
 	), document.getElementById('root'));
 
-	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
+	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
 
 /***/ },
 /* 1 */,
@@ -304,7 +304,7 @@ webpackJsonp([1],[
 /* 256 */
 /***/ function(module, exports, __webpack_require__) {
 
-	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/caculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
+	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/calculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
 
 	'use strict';
 
@@ -402,7 +402,7 @@ webpackJsonp([1],[
 
 	exports.default = (0, _reactRedux.connect)(mapStateToProps, mapDispatchToProps)(App);
 
-	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
+	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
 
 /***/ },
 /* 257 */
@@ -1936,7 +1936,7 @@ webpackJsonp([1],[
 /* 343 */
 /***/ function(module, exports, __webpack_require__) {
 
-	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/caculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
+	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/calculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
 
 	'use strict';
 
@@ -1997,13 +1997,13 @@ webpackJsonp([1],[
 
 	exports.default = Header;
 
-	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
+	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
 
 /***/ },
 /* 344 */
 /***/ function(module, exports, __webpack_require__) {
 
-	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/caculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
+	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/calculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
 
 	'use strict';
 
@@ -2131,7 +2131,12 @@ webpackJsonp([1],[
 	        ),
 	        _react2.default.createElement(
 	          'h2',
-	          { className: _style2.default.sum, title: _config.currency.name },
+	          { className: _style2.default.sum },
+	          _react2.default.createElement(
+	            'span',
+	            { className: _style2.default.currency, title: _config.currency.name },
+	            _config.currency.character
+	          ),
 	          cost
 	        )
 	      );
@@ -2142,7 +2147,7 @@ webpackJsonp([1],[
 
 	exports.default = MainSection;
 
-	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
+	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
 
 /***/ },
 /* 345 */
@@ -18602,7 +18607,7 @@ webpackJsonp([1],[
 /* 350 */
 /***/ function(module, exports, __webpack_require__) {
 
-	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/caculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
+	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/calculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
 
 	'use strict';
 
@@ -18613,7 +18618,7 @@ webpackJsonp([1],[
 	  name: 'Type',
 	  options: {
 	    'Web App': '+2000',
-	    'Web App with Backend': '+3000',
+	    'Web App with Backend': '+5000',
 	    'Script': '+500'
 	  }
 	}, {
@@ -18621,12 +18626,13 @@ webpackJsonp([1],[
 	  options: {
 	    'Node.js': '-200',
 	    'Ruby': '+500',
-	    'PHP': '+5000',
+	    'PHP': '+600',
 	    'Wordpress': '+3000'
 	  }
 	}, {
 	  name: 'Database',
 	  options: {
+	    'No Need': '+0',
 	    'AWS DynamoDB': '+300',
 	    'AWS RDS': '+300',
 	    'Firebase': '+200',
@@ -18643,7 +18649,7 @@ webpackJsonp([1],[
 	}, {
 	  name: 'Compatibility',
 	  options: {
-	    'Normal': '+0',
+	    'Normal Browsers': '+0',
 	    'Under IE 8': '+1200'
 	  }
 	}];
@@ -18653,7 +18659,7 @@ webpackJsonp([1],[
 	  character: '$'
 	};
 
-	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "config.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
+	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "config.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
 
 /***/ },
 /* 351 */
@@ -18690,7 +18696,7 @@ webpackJsonp([1],[
 
 
 	// module
-	exports.push([module.id, "\n.style__normal___2xC3M {\n  margin: 0;\n  padding: 0;\n  list-style: none;\n}\n\n.style__normal___2xC3M li {\n  position: relative;\n  font-size: 24px;\n  line-height: 60px;\n  border-bottom: 1px solid #ededed;\n}\n\n.style__normal___2xC3M .style__name___L0mtF {\n  width: 130px;\n  display: inline-block;\n  text-align: left;\n}\n\n.style__normal___2xC3M .style__value___2cVcq {\n  position: absolute;\n  right: 0;\n}\n\n.style__normal___2xC3M .style__select___1n2Cq {\n  -webkit-appearance: none;\n  border: 1px solid #ccc;\n  width: 240px;\n  line-height: 32px;\n  font-size: 14px;\n  color: #666;\n  margin: 0 20px;\n  padding: 0 20px;\n}\n.style__normal___2xC3M .style__select___1n2Cq:focus {\n  outline: none;\n}\n\n.style__sum___1DZma {\n  font-size: 60px;\n  text-align: right;\n  font-weight: 100;\n}", "", {"version":3,"sources":["/./components/MainSection/style.css"],"names":[],"mappings":";AACA;EACE,UAAU;EACV,WAAW;EACX,iBAAiB;CAClB;;AAED;EACE,mBAAmB;EACnB,gBAAgB;EAChB,kBAAkB;EAClB,iCAAiC;CAClC;;AAED;EACE,aAAa;EACb,sBAAsB;EACtB,iBAAiB;CAClB;;AAED;EACE,mBAAmB;EACnB,SAAS;CACV;;AAED;EACE,yBAAyB;EACzB,uBAAuB;EACvB,aAAa;EACb,kBAAkB;EAClB,gBAAgB;EAChB,YAAY;EACZ,eAAe;EACf,gBAAgB;CACjB;AACD;EACE,cAAc;CACf;;AAED;EACE,gBAAgB;EAChB,kBAAkB;EAClB,iBAAiB;CAClB","file":"style.css","sourcesContent":["\n.normal {\n  margin: 0;\n  padding: 0;\n  list-style: none;\n}\n\n.normal li {\n  position: relative;\n  font-size: 24px;\n  line-height: 60px;\n  border-bottom: 1px solid #ededed;\n}\n\n.normal .name {\n  width: 130px;\n  display: inline-block;\n  text-align: left;\n}\n\n.normal .value {\n  position: absolute;\n  right: 0;\n}\n\n.normal .select {\n  -webkit-appearance: none;\n  border: 1px solid #ccc;\n  width: 240px;\n  line-height: 32px;\n  font-size: 14px;\n  color: #666;\n  margin: 0 20px;\n  padding: 0 20px;\n}\n.normal .select:focus {\n  outline: none;\n}\n\n.sum {\n  font-size: 60px;\n  text-align: right;\n  font-weight: 100;\n}"],"sourceRoot":"webpack://"}]);
+	exports.push([module.id, "\n.style__normal___2xC3M {\n  margin: 0;\n  padding: 0;\n  list-style: none;\n}\n\n.style__normal___2xC3M li {\n  position: relative;\n  font-size: 24px;\n  line-height: 60px;\n  border-bottom: 1px solid #ededed;\n}\n\n.style__normal___2xC3M .style__name___L0mtF {\n  width: 130px;\n  display: inline-block;\n  text-align: left;\n}\n\n.style__normal___2xC3M .style__value___2cVcq {\n  position: absolute;\n  right: 0;\n}\n\n.style__normal___2xC3M .style__select___1n2Cq {\n  -webkit-appearance: none;\n  border: 1px solid #ccc;\n  width: 240px;\n  line-height: 32px;\n  font-size: 14px;\n  color: #666;\n  margin: 0 20px;\n  padding: 0 20px;\n}\n.style__normal___2xC3M .style__select___1n2Cq:focus {\n  outline: none;\n}\n\n.style__currency___31xH3 {\n  font-size: 14px;\n  font-weight: 200;\n  margin-right: 12px;\n}\n\n.style__sum___1DZma {\n  font-size: 60px;\n  text-align: right;\n  font-weight: 100;\n}", "", {"version":3,"sources":["/./components/MainSection/style.css"],"names":[],"mappings":";AACA;EACE,UAAU;EACV,WAAW;EACX,iBAAiB;CAClB;;AAED;EACE,mBAAmB;EACnB,gBAAgB;EAChB,kBAAkB;EAClB,iCAAiC;CAClC;;AAED;EACE,aAAa;EACb,sBAAsB;EACtB,iBAAiB;CAClB;;AAED;EACE,mBAAmB;EACnB,SAAS;CACV;;AAED;EACE,yBAAyB;EACzB,uBAAuB;EACvB,aAAa;EACb,kBAAkB;EAClB,gBAAgB;EAChB,YAAY;EACZ,eAAe;EACf,gBAAgB;CACjB;AACD;EACE,cAAc;CACf;;AAED;EACE,gBAAgB;EAChB,iBAAiB;EACjB,mBAAmB;CACpB;;AAED;EACE,gBAAgB;EAChB,kBAAkB;EAClB,iBAAiB;CAClB","file":"style.css","sourcesContent":["\n.normal {\n  margin: 0;\n  padding: 0;\n  list-style: none;\n}\n\n.normal li {\n  position: relative;\n  font-size: 24px;\n  line-height: 60px;\n  border-bottom: 1px solid #ededed;\n}\n\n.normal .name {\n  width: 130px;\n  display: inline-block;\n  text-align: left;\n}\n\n.normal .value {\n  position: absolute;\n  right: 0;\n}\n\n.normal .select {\n  -webkit-appearance: none;\n  border: 1px solid #ccc;\n  width: 240px;\n  line-height: 32px;\n  font-size: 14px;\n  color: #666;\n  margin: 0 20px;\n  padding: 0 20px;\n}\n.normal .select:focus {\n  outline: none;\n}\n\n.currency {\n  font-size: 14px;\n  font-weight: 200;\n  margin-right: 12px;\n}\n\n.sum {\n  font-size: 60px;\n  text-align: right;\n  font-weight: 100;\n}"],"sourceRoot":"webpack://"}]);
 
 	// exports
 	exports.locals = {
@@ -18698,6 +18704,7 @@ webpackJsonp([1],[
 		"name": "style__name___L0mtF",
 		"value": "style__value___2cVcq",
 		"select": "style__select___1n2Cq",
+		"currency": "style__currency___31xH3",
 		"sum": "style__sum___1DZma"
 	};
 
@@ -19013,7 +19020,7 @@ webpackJsonp([1],[
 /* 355 */
 /***/ function(module, exports, __webpack_require__) {
 
-	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/caculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
+	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/calculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
 
 	'use strict';
 
@@ -19026,7 +19033,7 @@ webpackJsonp([1],[
 
 	var change = exports.change = (0, _reduxActions.createAction)('change');
 
-	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "cost.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
+	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "cost.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
 
 /***/ },
 /* 356 */
@@ -20031,7 +20038,7 @@ webpackJsonp([1],[
 /* 370 */
 /***/ function(module, exports, __webpack_require__) {
 
-	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/caculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
+	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/calculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
 
 	'use strict';
 
@@ -20067,13 +20074,13 @@ webpackJsonp([1],[
 	  return store;
 	}
 
-	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
+	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
 
 /***/ },
 /* 371 */
 /***/ function(module, exports, __webpack_require__) {
 
-	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/caculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
+	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/calculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
 
 	'use strict';
 
@@ -20090,13 +20097,13 @@ webpackJsonp([1],[
 
 	exports.logger = _logger2.default;
 
-	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
+	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
 
 /***/ },
 /* 372 */
 /***/ function(module, exports, __webpack_require__) {
 
-	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/caculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
+	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/calculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
 
 	"use strict";
 
@@ -20113,13 +20120,13 @@ webpackJsonp([1],[
 	  };
 	};
 
-	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "logger.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
+	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "logger.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
 
 /***/ },
 /* 373 */
 /***/ function(module, exports, __webpack_require__) {
 
-	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/caculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
+	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/calculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
 
 	'use strict';
 
@@ -20142,13 +20149,13 @@ webpackJsonp([1],[
 	  cost: _cost2.default
 	});
 
-	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
+	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "index.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
 
 /***/ },
 /* 374 */
 /***/ function(module, exports, __webpack_require__) {
 
-	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/caculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
+	/* REACT HOT LOADER */ if (false) { (function () { var ReactHotAPI = require("/Users/leplay/dev/calculator/node_modules/react-hot-api/modules/index.js"), RootInstanceProvider = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/RootInstanceProvider.js"), ReactMount = require("react/lib/ReactMount"), React = require("react"); module.makeHot = module.hot.data ? module.hot.data.makeHot : ReactHotAPI(function () { return RootInstanceProvider.getRootInstances(ReactMount); }, React); })(); } try { (function () {
 
 	'use strict';
 
@@ -20221,7 +20228,7 @@ webpackJsonp([1],[
 
 	}, initialState);
 
-	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/caculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "cost.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
+	/* REACT HOT LOADER */ }).call(this); } finally { if (false) { (function () { var foundReactClasses = module.hot.data && module.hot.data.foundReactClasses || false; if (module.exports && module.makeHot) { var makeExportsHot = require("/Users/leplay/dev/calculator/node_modules/react-hot-loader/makeExportsHot.js"); if (makeExportsHot(module, require("react"))) { foundReactClasses = true; } var shouldAcceptModule = true && foundReactClasses; if (shouldAcceptModule) { module.hot.accept(function (err) { if (err) { console.error("Cannot not apply hot update to " + "cost.js" + ": " + err.message); } }); } } module.hot.dispose(function (data) { data.makeHot = module.makeHot; data.foundReactClasses = foundReactClasses; }); })(); } }
 
 /***/ }
 ]);
