@@ -11,6 +11,8 @@ import configure from './store'
 const store = configure()
 const history = syncHistoryWithStore(browserHistory, store)
 
+// change path to /calculator/ if you publish to gp-pages
+
 ReactDOM.render(
   <Provider store={store}>
     <Router history={history}>
