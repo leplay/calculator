@@ -39,7 +39,7 @@ webpackJsonp([1],[
 	  _react2.default.createElement(
 	    _reactRouter.Router,
 	    { history: history },
-	    _react2.default.createElement(_reactRouter.Route, { path: '/', component: _App2.default })
+	    _react2.default.createElement(_reactRouter.Route, { path: '/calculator/', component: _App2.default })
 	  )
 	), document.getElementById('root'));
 
