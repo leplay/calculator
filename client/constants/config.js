@@ -42,6 +42,14 @@ export let config = [
       'Normal Browsers': '+0',
       'Under IE 8': '+1200'
     }
+  },
+  {
+    name: 'testing this',
+    options: {
+      '1': '+312',
+      '2': '+8424',
+      '3': '+800'
+    }
   }
 ]
 
